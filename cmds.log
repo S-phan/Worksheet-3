@@ -1,0 +1,783 @@
+    1  $ wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  Passwd
+    3  passwd
+    4  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    5  cd ~/Desktop
+    6  cd..pwd
+    7  pwd
+    8  cd /Desktop
+    9  ls -d */
+   10  pwd
+   11  cd sphan
+   12  mkdir myproject
+   13  pwd
+   14  cd myprojects/
+   15  mkdir myproject
+   16  cd myproject/
+   17  git init
+   18  touch worksheet1.txt
+   19  ls
+   20  git status
+   21  git add worksheet1
+   22  git add worksheet1.txt
+   23  git status
+   24  -m " worksheet 1 assignment"
+   25  git commit -m "worksheet 1 assigment"
+   26  git config --global Stephanie Phan
+   27  -m " worksheet 1 assignment"
+   28  git commit -m "worksheet 1 assignment"
+   29  git remote add orgin https://github.com/S-phan/worksheet1.git
+   30  git push -u orgin master
+   31  git config --global stephanie.phan@sjsu.edu
+   32  git config --global Stephanie
+   33  git config --global phans
+   34  git status
+   35  git commit -m "worksheet"
+   36  git commit -m "worksheet1:
+   37  git commit -m "worksheet1"
+   38  git remote add orgin https://github.com/S-phan/worksheet1.git
+   39  git status
+   40  pwd
+   41  cd worksheet1
+   42  mkdir worksheet1
+   43  cd worksheet1
+   44  https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   45  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   46  touch worksheet1.txt
+   47  ls
+   48  git status
+   49  git add worksheet1.txt
+   50  git init
+   51  phans@f6linux17:~$
+   52  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   53  cd ~/Desktop
+   54  mkdir myproject
+   55  cd myproject
+   56  git init
+   57  ls
+   58  git status
+   59  git commit -m "For worksheet 1"
+   60  git config --global stephanie.phan@sjsu.edu
+   61  Omit git config --global stephanie
+   62  git config --global stephanie
+   63  git config --global phans
+   64  git commit -m "For worksheet 1"
+   65  git remote add orgin https://github.com/S-phan/worksheet1.git
+   66  git push -u orgin master
+   67  git config --global user.email "you@example.com"
+   68  git config --global stphan0001@gmail.com
+   69  git config --global stephanie.phan@sjsu.edu
+   70  git config -- global stephanie.phan
+   71  git config -- global Phan, Stephanie
+   72  git config -- global Phan.Stephanie
+   73  git config --  Phan.Stephanie
+   74  git commit -m "For worksheet 1"
+   75  git push -u origin master
+   76  git config --global s-phan
+   77  git push -u origin master
+   78  git remote add orgin https://github.com/st-phan/worksheet1.git
+   79  git push -u orgin master
+   80  cd myproject/
+   81  git init
+   82  git status
+   83  git commit -m " first commit"
+   84  git init
+   85  ls
+   86  git add worksheet1.txt
+   87  git status
+   88  ls
+   89  git status
+   90  touch worksheet_1.txt
+   91  ls
+   92  git status
+   93  git commit -m "commit"
+   94  git remote add orgin https://github.com/S-phan/worksheet1.git
+   95  git add worksheet_1.txt
+   96  git status
+   97  git commit -m "commit 2" 
+   98  git remote add orgin https://github.com/S-phan/worksheet1.git
+   99  git remote add orgin ttps://github.com/st-phan/worksheet1.git
+  100  git remote add orgin https://github.com/st-phan/worksheet1.git
+  101  https://github.com/st-phan/worksheet1.git
+  102  git remote rn orgin
+  103  ls
+  104  git status
+  105  git commit -m "commit"
+  106  git romote add orgin https://github.com/st-phan/worksheet1.git
+  107  git remote add orgin https://github.com/st-phan/worksheet1.git
+  108  git remote -v
+  109  git remote rn upstream
+  110  git remote -v
+  111  git remote remove upsteam
+  112  git remote -v
+  113  git remote add orgin https://github.com/S-phan/worksheet1.git
+  114  git push -u orgin master
+  115  ls
+  116  cd myproject 
+  117  ls
+  118  cd myprojects
+  119  ls
+  120  cd myproject
+  121  gzip amazon_reviews_us_Books_v1_02.tsv.gz
+  122  ls
+  123  gzip amazon_reviews_us_Books_v1_02.tsv.gz
+  124  gzip amazon_reviews_us_Books_v1_02.tsv
+  125  unzip amazon_reviews_us_Books_v1_02.tsv.gz
+  126  cd myproject
+  127  ls
+  128  gzip wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  129  gzip wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  130  ls
+  131  gzip -d amazon_reviews_us_Books_v1_02.tsv.gz 
+  132  ls
+  133  rm amazon_reviews_us_Books_v1_02.tsv.gz.1
+  134  ls
+  135  ls amazon_reviews_us_Books_v1_02.tsv 
+  136  head amazon_reviews_us_Books_v1_02.tsv 
+  137  cat amazon_reviews_us_Books_v1_02.tsv | grep verified 
+  138  vi amazon_reviews_us_Books_v1_02.tsv 
+  139  history
+  140  history 10
+  141  scp --help
+  142  scp -h
+  143  scp amazon_reviews_us_Books_v1_02.tsv Downloads/
+  144  scp amazon_reviews_us_Books_v1_02.tsv C:\Users\sphan\Downloads
+  145  scp amazon_reviews_us_Books_v1_02.tsv \Users\sphan\Downloads
+  146  pwd
+  147  cat amazon_reviews_us_Books_v1_02.tsv  | grep -i "verified" > verified.txt
+  148  ls
+  149  vi verified.txt 
+  150  wc -l verified.txt 
+  151  cat amazon_reviews_us_Books_v1_02.tsv | grep unverified
+  152  history 
+  153  ls
+  154  wc -l unverified.txt 
+  155  cat amazon_reviews_us_Books_v1_02.tsv  | grep verified > verified1.txt
+  156  wc -l verified1.txt 
+  157  wc -l verified.txt 
+  158  ls
+  159  touch test1.txt
+  160  touch test2.txt
+  161  vi test1.txt
+  162  cat test1.txt | grep -i "Apple" > text2.txt
+  163  cat test2.txt 
+  164  vi test1.txt 
+  165  cat test1.txt | grep -i "Apple" > text3.txt
+  166  ls
+  167  cat test3
+  168  cat test3.txt
+  169  ls
+  170  cat text3.txt
+  171  ls
+  172  rm text3.txt
+  173  rm test2.txt
+  174  rm test1.txt
+  175  ls
+  176  rm text2.txt
+  177  ls
+  178  mv verified1.txt verified_not_case_sensitive.txt
+  179  ls
+  180  mv verified_not_case_sensitive.txt verified_case_sensitive.txt 
+  181  ls
+  182  rm unverified.txt 
+  183  ls
+  184  rm verified
+  185  rm verified.txt
+  186  rm verified_case_sensitive.txt 
+  187  cat amazon_reviews_us_Books_v1_02.tsv | grep "unverified" >unverified.txt
+  188  wc -l unverified.txt 
+  189  cat amazon_reviews_us_Books_v1_02.tsv | grep "unverified"
+  190  wc -l unverified.txt > counts.txt
+  191  ls
+  192  cat counts .txt
+  193  cat counts.txt
+  194  cat amazon_reviews_us_Books_v1_02.tsv | grep "verified" > verified.txt
+  195  wc -l verified.txt 
+  196  wc -l verified.txt > counts.txt
+  197  cat counts.txt
+  198  wc -l verified.txt >> counts.txt
+  199  cat counts.txt
+  200  echo ""> counts.txt
+  201  cat counts.txt
+  202  wc -l verified.txt >> counts.txt
+  203  wc -l unverified.txt >> counts.txt
+  204  cat counts.txt
+  205  vi counts.txt
+  206  cat count.txt
+  207  cat counts.txt
+  208  wc -w unverified.txt >> counts.txt 
+  209  cats counts.txt 
+  210  cat counts.txt 
+  211  wc -w verified.txt >> counts.txt 
+  212  cat counts.txt 
+  213  vi counts.txt 
+  214  cat counts.txt 
+  215  history > cmds.log
+  216  cat cmds.log 
+  217  git branch
+  218  git clone https://github.com/S-phan/ws2.git
+  219  ls
+  220  cp cmds.log counts.txt unverified.txt verified.txt ws2
+  221  cd ws2
+  222  ls
+  223  git status
+  224  git add .
+  225  git status
+  226  git commit -m "completed hw 2"
+  227  git push
+  228  cd ..
+  229  git clone https://github.com/S-phan/worksheet1.git
+  230  ls
+  231  cd worksheet1/
+  232  git branch
+  233  git status
+  234  rm -r worksheet1.txt 
+  235  ls
+  236  cd ..
+  237  ls
+  238  rm -r worksheet1
+  239  ls
+  240  git clone https://github.com/S-phan/worksheet1.git
+  241  ls
+  242  cd worksheet1/
+  243  ls
+  244  git status
+  245  cd..
+  246  cd ..
+  247  ls
+  248  cat cmds.log
+  249  ls
+  250  cat amazon_reviews_us_Books_v1_02.tsv | egrep verified
+  251  cat amazon_reviews_us_Books_v1_02.tsv | egrep "unverified.txt" > unverified.txt 
+  252  cat unverified.txt 
+  253  cat amazon_reviews_us_Books_v1_02.tsv | egrep "unverified.txt" > unverified.txt 
+  254  cat unverified.txt 
+  255  ls
+  256  cat verified.txt 
+  257  cat unverified.txt 
+  258  ls
+  259  cat verified.txt 
+  260  cat amazon_reviews_us_Books_v1_02.tsv |egrep "unverified" > unverified.txt
+  261  cat amazon_reviews_us_Books_v1_02.tsv |egrep "verified" > verified.txt
+  262  wc -l unverified.txt 
+  263  wc -l unverified.txt > counts.txt 
+  264  cat counts.txt 
+  265  wc -l verified.txt>>counts.txt 
+  266  cat counts.txt 
+  267  vi counts.txt 
+  268  cat counts.txt 
+  269  wc -w verified.txt>>counts.txt 
+  270  wc -w unverified.txt>>counts.txt 
+  271  cat counts.txt 
+  272  vi counts.txt 
+  273  cat counts.txt 
+  274  history
+  275  history > cmds.log
+  276  cat cmds.log
+  277  git status
+  278  ls
+  279  cp counts.txt unverified.txt verified.txt cmds.log 
+  280  cd ..
+  281  ls
+  282  cd phans
+  283  ls
+  284  git status
+  285  git clone https://github.com/S-phan/ws2.git
+  286  cat ws2
+  287  git add .
+  288  cd myproject/
+  289  ls
+  290  cd ..
+  291  ls
+  292  cp cmds.log counts.txt unverified.txt verified.txt ws2
+  293  git status
+  294  git add .
+  295  git status
+  296  git init
+  297  git status
+  298  git add cmds.log counts.txt unverified.txt verified.txt 
+  299  git status
+  300  git commit -m "recompleted ws2 using egrep instead of grep"
+  301  git push
+  302  git push https://github.com/S-phan/ws2.git
+  303  S-phan
+  304  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
+  305  S-phan
+  306  git push https://github.com/S-phan/ws2.git
+  307  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
+  308  git push https://github.com/S-phan/ws2.git
+  309  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
+  310  git push https://github.com/S-phan/ws2.git
+  311  git status
+  312  history
+  313  history -10
+  314  git status
+  315  ls
+  316  git add cmds.log .
+  317  git push cmd.log
+  318  git push --set-upstream cmd.log master
+  319  cat mds,log
+  320  cat cmds.log 
+  321  git push --set-upstream cmd.log master
+  322  git remote -v
+  323  git orgin master
+  324  git push orgin master
+  325  cat cmds.log 
+  326  ls
+  327  git status
+  328  cd worksheet1
+  329  ls
+  330  git status
+  331  history>cmds.log
+  332  cat cmds.log 
+  333  ls
+  334  fit status
+  335  git status
+  336  git add cmds.log
+  337  git status
+  338  git commit -m "added cmds.log" 
+  339  git push 
+  340  cd ..
+  341  ls
+  342  cd ws2
+  343  ls
+  344  git status
+  345  cat counts.txt
+  346  cd..
+  347  cat counts.txt 
+  348  cd ..
+  349  cat counts.txt 
+  350  history
+  351  cat counts.txt 
+  352  ls
+  353  cd ws2
+  354  ls
+  355  cd ..
+  356  rm ws2/
+  357  rm -ws2/
+  358  -rm ws2/
+  359  rm -r ws2/
+  360  ls
+  361  cd ws2
+  362  ls
+  363  cd ..
+  364  mv cmds.log counts.txt unverified.txt verified.txt ws2
+  365  cd ws2
+  366  ls
+  367  git status
+  368  ls -a
+  369  git add .
+  370  git status
+  371  git commit -m " fix grep to egrep"
+  372  git push
+  373  git remote add ws2 https://github.com/S-phan/ws2.git
+  374  git push
+  375  git push ws2
+  376  git push --set-upstream ws2 master
+  377  git stash list
+  378  git stash
+  379  git stash list
+  380  git fetch
+  381  git pull
+  382  git pull https://github.com/S-phan/ws2.git master
+  383  git pull https://github.com/S-phan/ws2.git master --allow-unrelated-histories
+  384  git stauts
+  385  git status
+  386  git stutus
+  387  git add .
+  388  git status
+  389  git commit -m "completed  worksheet 2" 
+  390  cd..
+  391  cd ,,
+  392  cd ..
+  393  mv ws2 ws2_old
+  394  ls
+  395  git clone https://github.com/S-phan/ws2.git
+  396  cd ws2
+  397  ls
+  398  cd ..
+  399  mv cmds.log counts.txt unverified.txt verified.txt ws2
+  400  cd ws2
+  401  ls
+  402  git status
+  403  cat cmds.log | grep egrep
+  404  git add .
+  405  git status
+  406  git commit -m "completed ws2"
+  407  git push
+  408  cd wr
+  409  ls
+  410  cd ~
+  411  cat a1.cat
+  412  cat worksheet1
+  413  ls
+  414  cat worksheet1
+  415  cd ws2
+  416  ls
+  417  cat unverified.txt
+  418  cd ..
+  419  ls
+  420  cat a1.txt
+  421  rm a1.txt 
+  422  ls
+  423  cd mt project
+  424  cd myproject/
+  425  ls
+  426  script a1.txt
+  427  ls
+  428  script a1.txt
+  429  cat a1.txt
+  430  rm a1.txt 
+  431  ls
+  432  script a1.txt
+  433  echo $home
+  434  pwd
+  435  cd~
+  436  cd ~
+  437  pwd
+  438  vi a1.txt 
+  439  cat a1.txt
+  440  :q
+  441  ls
+  442  rm a1.txt
+  443  ls
+  444  script a2.txt
+  445  echo pwd
+  446  pwd
+  447  cd my project
+  448  cd myproject/
+  449  cd ~
+  450  echo question 2
+  451  less a2.txt
+  452  vi a2.txt
+  453  script a2.txt 
+  454  echo what is your UID? How did you find out?
+  455  id -u unsername
+  456  id -u phans
+  457  echo User UID is 1001
+  458  less a2.txt
+  459  vi a2.txt
+  460  rm a2.txt 
+  461  $group
+  462  groups
+  463  groups user
+  464  id userid
+  465  id 1001
+  466  mktemp-d
+  467  mktemp -d
+  468  ls -lah
+  469  ls
+  470  mkdir fake
+  471  ls
+  472  mkdir fake2 
+  473  mv fake fake2
+  474  cd fake2
+  475  ls
+  476  mkdir fake3
+  477  touch fake1 > fake3
+  478  ls fake3
+  479  cd..
+  480  cd ..
+  481  ls
+  482  cd fake2
+  483  ls
+  484  rm fake3
+  485  cd ..
+  486  ls
+  487  cp -R ws2_old fake2
+  488  cd fake2
+  489  ls
+  490  rm fake2
+  491  cd ..
+  492  rm fake2
+  493  ls
+  494  rm -r fake2
+  495  cd proc
+  496  cd /proc
+  497  ls
+  498  grep cpuinfo
+  499  cd cpuinfo
+  500  ls
+  501  meminfo
+  502  cd meminfo
+  503  sys
+  504  cd sys
+  505  ls
+  506  cd ..
+  507  sc cpuinfo
+  508  cd cpuinfo
+  509  cd tty
+  510  ls
+  511  cd ..
+  512  cd sys
+  513  ls
+  514  cd user
+  515  ls
+  516  cd ..
+  517  cd /temp
+  518  ls
+  519  tmp
+  520  cd ..
+  521  ls
+  522  cd user
+  523  ls
+  524  ls -1 amazon_reviews_us_Books_v1_02.tsv 
+  525  ls -l *
+  526  ls -h amazon_reviews_us_Books_v1_02.tsv 
+  527  ls -h *
+  528  ls -lh amazon_reviews_us_Books_v1_02.tsv 
+  529  wc amazon_reviews_us_Books_v1_02.tsv | grep great 
+  530  cat amazon_reviews_us_Books_v1_02.tsv | grep "great" > great.txt  
+  531  wc great.txt 
+  532  mkdir WS3
+  533  head - n 1 amazon_reviews_us_Books_v1_02.tsv 
+  534  head - n 1../ amazon_reviews_us_Books_v1_02.tsv 
+  535  ls
+  536  head amazon_reviews_us_Books_v1_02.tsv 
+  537  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  538  mkdir temp 
+  539  ls
+  540  pwd
+  541  cd ~
+  542  less a1.txt
+  543  vi a1.txt 
+  544  les a1.txt
+  545  less a1.txt 
+  546  ls
+  547  ccd myproject/
+  548  cd myproject/
+  549  ls
+  550  ls -l
+  551  cd ..
+  552  cd ~
+  553  pwd
+  554  cd ~
+  555  echo question 2 
+  556  groups
+  557  group user
+  558  groups user
+  559  echo question 2
+  560  id -u phans
+  561  id user1001
+  562  echo question 3
+  563  groups
+  564  id user1001
+  565  id userid
+  566  id phansid
+  567  id phans
+  568  groups
+  569  id phans
+  570  echo question 4
+  571  mkdir temp
+  572  ls -l
+  573  chmod 677 temp
+  574  ls -l
+  575  cd temp
+  576  echo permission denied 
+  577  ls
+  578  ls temp
+  579  ls -l temp
+  580  echo you can ls into temp dir
+  581  echo question 5
+  582  mkdir fake
+  583  mkdir fake2
+  584  ls
+  585  mv fake fake2
+  586  ls fake2
+  587  echo you are allowed to mv a directory 
+  588  ls fake2
+  589  ls ws2_old/
+  590  echo yes you can cp an entire dir
+  591  echo question 6
+  592  cd /proc/
+  593  ls
+  594  ls | grep mem
+  595  cat meminfo
+  596  ls | grep cpu
+  597  cat cpuinfo 
+  598  echo Question 7
+  599  head meminfo 
+  600  echo total memtotal: 4049408 kB
+  601  head -h meminfo 
+  602  tail meminfo 
+  603  tail cpuinfo 
+  604  echo process 79
+  605  echo Question 9
+  606  ```bash
+  607  phans@f6linux17:/proc$ tail  cpuinfo
+  608  FileHugePages:         0 kB
+  609  FilePmdMapped:         0 kB
+  610  CmaTotal:              0 kB
+  611  CmaFree:               0 kB
+  612  HugePages_Total:       0
+  613  HugePages_Free:        0
+  614  HugePages_Rsvd:        0
+  615  HugePages_Surp:        0
+  616  Hugepagesize:      16384 kB
+  617  Hugetlb:               0 kB
+  618  cd ~
+  619  ls
+  620  ls -lh amazon_reviews_us_Books_v1_02.tsv
+  621  echo 3.1G 
+  622  echo Question 10
+  623  cat amazon_reviews_us_Books_v1_02.tsv | grep "great" > great.txt
+  624  phans@f6linux17:~$
+  625  ls
+  626  wc great.txt 
+  627  vi great.txt
+  628  cat amazon_reviews_us_Books_v1_02.tsv | grep-i "great" > great.txt
+  629  cat amazon_reviews_us_Books_v1_02.tsv | grep -i "great" > great.txt
+  630  cat great.txt
+  631  wc great.txt
+  632  ls -ld
+  633  ls -l
+  634  ls
+  635  ls -l
+  636  chmod 677 temp
+  637  ls -l
+  638  cd temp
+  639  ls 
+  640  ls temp
+  641  ls -l temp
+  642  rm temp
+  643  rmdir temp
+  644  cd proc
+  645  cd /proc/
+  646  ls
+  647  grep mem
+  648  ls | grep mem
+  649  cat meminfo
+  650  cat iomem
+  651  ls | grep cpu
+  652  cat cpuinfo 
+  653  cd /proc/cd /proc/
+  654  history 10
+  655  cat meminfo
+  656  head  meminfo
+  657  tail  meminfo
+  658  tail 15 meminfo 
+  659  ls
+  660  cd~
+  661  cd ~
+  662  ls
+  663  cd WS3
+  664  ls
+  665  cd ~
+  666  script a1.txt
+  667  vi a1.txt 
+  668  rm a1.txt
+  669  script a1.txt
+  670  less a1.txt 
+  671  script a2.txt
+  672  less a2.txt
+  673  rm a2.txt 
+  674  rm a1.txt
+  675  script a1.txt
+  676  less a1.txt
+  677  vi a1.txt
+  678  git  clone https://github.com/S-phan/Assigment-1.git
+  679  ls
+  680  mv a1.txt Assigment-1
+  681  ls Assigment-1/
+  682  mv great.txt Assigment-1/
+  683  cd Assigment-1/
+  684  git status
+  685  git add .
+  686  git commit -m "completed Assigment1" 
+  687  git push
+  688  ls
+  689  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  690  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  691  cat customerID.txt 
+  692  cat head customerID.txt 
+  693  head customerID.txt 
+  694  cut -d "" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  695  head customerID.txt 
+  696  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  697  head customerID.txt 
+  698  sort customerID.txt | head
+  699  sort customerID.txt > customerID.txt.sorted 
+  700  ls
+  701  head customerID.txt.sorted 
+  702  cut -d "" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  703  sort customerID.txt > customerID.txt.sorted 
+  704  head customerID.txt.sorted 
+  705  ls
+  706  head -n 2 amazon_reviews_us_Books_v1_02.tsv
+  707  head -n 1 amazon_reviews_us_Books_v1_02.tsv
+  708  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  709  head customerID.txt
+  710  cut -d " " -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  711  cut -d ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  712  head customerID.txt
+  713  cut -d ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  714  cut ":" -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  715  cut -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  716  head customerID.txt
+  717  sort customerID.txt > customerID.txt.sorted
+  718  head customerID.txt.sorted 
+  719  uniq -c customerID.txt.sorted > customerID.txt.sorted.uniqcounts
+  720  head customerID.txt.sorted.uniqcounts 
+  721  sort -nk1 -- reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uniqcounts.reversed
+  722  sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uniqcounts.reversed
+  723  head customerID.txt.sorted.uniqcounts.reversed 
+  724  phans@f6linux17:~$ sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uni                                                 qcounts.reversed
+  725  phans@f6linux17:~$ head customerID.txt.sorted.uniqcounts.reversed
+  726  phans@f6linux17:~$ sort -nk1 --reverse customerID.txt.sorted.uniqcounts > customerID.txt.sorted.uni                                                 qcounts.reversed
+  727  phans@f6linux17:~$ head customerID.txt.sorted.uniqcounts.reversed
+  728  cut " " -f 9 <amazon file> >helpful.txt 
+  729  cut " " -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt 
+  730  cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt 
+  731  head helpful.txt
+  732  phans@f6linux17:~$ cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt
+  733  phans@f6linux17:~$ head helpful.txt
+  734  helpful_votes
+  735  2
+  736  5
+  737  1
+  738  2
+  739  0
+  740  2
+  741  9
+  742  3
+  743  16
+  744  cut -f 2 amazon_reviews_us_Books_v1_02.tsv > customerID.txt
+  745  head customerID.txt 
+  746  sort customerID.txt > customerID.txt.sort
+  747  head customerID.txt.sort
+  748  uniq customerID.txt.sort > customerID.txt.sort.uniq
+  749  head customerID.txt.sort.uniq
+  750  uniq -c customerID.txt.sort > customerID.txt.sort.uniq
+  751  head customerID.txt.sort.uniq
+  752  sort -nk1 --reverse customerID.txt.sort.uniq
+  753  sort -nk1 --reverse customerID.txt.sort.uniq > customerID_SortedReverse.txt
+  754  head customerID_SortedReverse.txt 
+  755  head -3 customerID_SortedReverse.txt 
+  756  head -3 customerID_SortedReverse.txt > customerID_Top3.txt
+  757  head customerID_Top3.txt 
+  758  Echo Find Most reviewed products. Top 3
+  759  Echo Find Most reviewed product
+  760  echo Find Most reviewed product
+  761  ls
+  762  head amazon_reviews_us_Books_v1_02.tsv 
+  763  head -n 1 amazon_reviews_us_Books_v1_02.tsv 
+  764  cut -f 4 amazon_reviews_us_Books_v1_02.tsv > product_id.txt
+  765  head product_id.txt 
+  766  sort product_id.txt > product_id.txt.sorted
+  767  head product_id.txt.sorted 
+  768  uniq -c product_id.txt.sorted > product_id.txt.sorted.uniq
+  769  head product_id.txt.sorted.uniq
+  770  sort -nk1 --reverse product_id.txt.sorted.uniq > product_id.reverse.txt
+  771  head product_id.reverse.txt 
+  772  head -3 product_id.reverse.txt > productid_top3.txt
+  773  head productid_top3.txt 
+  774  ls
+  775  head -n 1 amazon_reviews_us_Books_v1_02.tsv
+  776  cut -f 9 amazon_reviews_us_Books_v1_02.tsv >helpful.txt
+  777  head helpful.txt 
+  778  uniq -c helpful.txt > helpful.count.txt 
+  779  head helpful.count.txt
+  780  cat helpful.count.txy
+  781  tail helpful.count.txt
+  782  head -20 helpful.count.txt
+  783  history > cmds.log
